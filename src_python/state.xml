@@ -1,0 +1,18 @@
+<data>
+<Window Auto="False" AutoProfile="False" AutoSolar="True" Name="ID_HABITACION_1" ProfileIndex="0" ProfileName="ivan" Status="OPEN_STATE" TimeClose="04:00" TimeOpen="03:00" />
+<Window Auto="False" AutoProfile="False" AutoSolar="True" Name="ID_HABITACION_2" ProfileIndex="4" ProfileName="juan" Status="NULL_STATE" TimeClose="00:30" TimeOpen="00:30" />
+<Window Auto="True" AutoProfile="False" AutoSolar="False" Name="ID_HABITACION_3" ProfileIndex="0" ProfileName="ivan" Status="NULL_STATE" TimeClose="09:30" TimeOpen="03:30" />
+<Window Auto="True" AutoProfile="False" AutoSolar="False" Name="ID_HABITACION_4" ProfileIndex="2" ProfileName="ivan_2" Status="NULL_STATE" TimeClose="None" TimeOpen="None" />
+<Window Auto="False" AutoProfile="True" AutoSolar="False" Name="ID_HABITACION_5" ProfileIndex="0" ProfileName="ivan" Status="NULL_STATE" TimeClose="None" TimeOpen="None" />
+<Window Auto="False" AutoProfile="False" AutoSolar="False" Name="ID_HABITACION_6" ProfileIndex="1" ProfileName="norte_invierno" Status="OPEN_STATE" TimeClose="None" TimeOpen="None" />
+<Window Auto="False" AutoProfile="False" AutoSolar="False" Name="ID_HABITACION_7" ProfileIndex="1" ProfileName="norte_invierno" Status="OPEN_STATE" TimeClose="None" TimeOpen="None" />
+<Window Auto="False" AutoProfile="False" AutoSolar="False" Name="ID_HABITACION_8" ProfileIndex="1" ProfileName="norte_invierno" Status="CLOSE_STATE" TimeClose="00:00" TimeOpen="00:00" />
+<Window Auto="False" AutoProfile="False" AutoSolar="False" Name="ID_HABITACION_9" ProfileIndex="1" ProfileName="norte_invierno" Status="NULL_STATE" TimeClose="None" TimeOpen="None" />
+<Window Auto="False" AutoProfile="False" AutoSolar="False" Name="ID_HABITACION_10" ProfileIndex="4" ProfileName="juan" Status="NULL_STATE" TimeClose="None" TimeOpen="None" />
+<Window Auto="False" AutoProfile="False" AutoSolar="False" Name="ID_HABITACION_11" ProfileIndex="2" ProfileName="ivan_2" Status="NULL_STATE" TimeClose="None" TimeOpen="None" />
+<Window Auto="False" AutoProfile="False" AutoSolar="False" Name="ID_HABITACION_12" ProfileIndex="0" ProfileName="ivan" Status="NULL_STATE" TimeClose="None" TimeOpen="None" />
+<Window Auto="False" AutoProfile="False" AutoSolar="False" Name="ID_HABITACION_13" ProfileIndex="0" ProfileName="ivan" Status="NULL_STATE" TimeClose="None" TimeOpen="None" />
+<Window Auto="False" AutoProfile="False" AutoSolar="False" Name="ID_HABITACION_14" ProfileIndex="0" ProfileName="ivan" Status="NULL_STATE" TimeClose="None" TimeOpen="None" />
+<Window Auto="False" AutoProfile="False" AutoSolar="False" Name="ID_HABITACION_15" ProfileIndex="2" ProfileName="ivan_2" Status="NULL_STATE" TimeClose="None" TimeOpen="00:00" />
+<Window Auto="False" AutoProfile="False" AutoSolar="False" Name="ID_HABITACION_16" ProfileIndex="3" ProfileName="ivan_3" Status="CLOSE_STATE" TimeClose="08:00" TimeOpen="08:30" />
+</data>

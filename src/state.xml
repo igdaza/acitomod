@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Window Name="ID_HABITACION_1" Status="OPEN_STATE" TimeOpen="21:30" TimeClose="22:30" Auto="False" AutoProfile="False" ProfileNameIndex="1" />
+<Window Name="ID_HABITACION_2" Status="NULL_STATE" TimeOpen="01:30" TimeClose="01:00" Auto="False" AutoProfile="False" ProfileNameIndex="-1" />
+<Window Name="ID_HABITACION_3" Status="NULL_STATE" TimeOpen="00:00" TimeClose="00:00" Auto="False" AutoProfile="False" ProfileNameIndex="-1" />
+<Window Name="ID_HABITACION_4" Status="NULL_STATE" TimeOpen="00:30" TimeClose="0" Auto="False" AutoProfile="False" ProfileNameIndex="-1" />
+<Window Name="ID_HABITACION_5" Status="NULL_STATE" TimeOpen="10:30" TimeClose="0" Auto="False" AutoProfile="False" ProfileNameIndex="-1" />
+<Window Name="ID_HABITACION_6" Status="OPEN_STATE" TimeOpen="16:00" TimeClose="20:00" Auto="False" AutoProfile="False" ProfileNameIndex="-1" />
+<Window Name="ID_HABITACION_7" Status="OPEN_STATE" TimeOpen="08:00" TimeClose="23:30" Auto="False" AutoProfile="False" ProfileNameIndex="-1" />
+<Window Name="ID_HABITACION_8" Status="CLOSE_STATE" TimeOpen="08:00" TimeClose="23:30" Auto="False" AutoProfile="False" ProfileNameIndex="1" />
+<Window Name="ID_HABITACION_9" Status="NULL_STATE" TimeOpen="0" TimeClose="0" Auto="False" AutoProfile="False" ProfileNameIndex="-1" />
+<Window Name="ID_HABITACION_10" Status="NULL_STATE" TimeOpen="0" TimeClose="0" Auto="False" AutoProfile="False" ProfileNameIndex="-1" />
+<Window Name="ID_HABITACION_11" Status="NULL_STATE" TimeOpen="0" TimeClose="0" Auto="False" AutoProfile="False" ProfileNameIndex="-1" />
+<Window Name="ID_HABITACION_12" Status="NULL_STATE" TimeOpen="0" TimeClose="0" Auto="False" AutoProfile="False" ProfileNameIndex="-1" />
+<Window Name="ID_HABITACION_13" Status="NULL_STATE" TimeOpen="0" TimeClose="0" Auto="False" AutoProfile="False" ProfileNameIndex="-1" />
+<Window Name="ID_HABITACION_14" Status="NULL_STATE" TimeOpen="0" TimeClose="0" Auto="False" AutoProfile="False" ProfileNameIndex="-1" />
+<Window Name="ID_HABITACION_15" Status="NULL_STATE" TimeOpen="0" TimeClose="0" Auto="False" AutoProfile="False" ProfileNameIndex="0" />
+<Window Name="ID_HABITACION_16" Status="CLOSE_STATE" TimeOpen="22:00" TimeClose="22:30" Auto="False" AutoProfile="True" ProfileNameIndex="2" />

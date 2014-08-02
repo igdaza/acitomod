@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<data>
+  <Profile Name="ivan" domingo="True" jueves="False" lunes="False" martes="False" miercoles="False" sabado="True" viernes="False">
+     <element Hour="00:00">0</element>
+     <element Hour="01:00">0</element>
+     <element Hour="02:00">0</element>
+     <element Hour="03:00">0</element>
+     <element Hour="04:00">0</element>
+     <element Hour="05:00">20</element>
+     <element Hour="06:00">40</element>
+     <element Hour="07:00">60</element>
+     <element Hour="08:00">80</element>
+     <element Hour="09:00">100</element>
+     <element Hour="10:00">100</element>
+     <element Hour="11:00">80</element>
+     <element Hour="12:00">60</element>
+     <element Hour="13:00">50</element>
+     <element Hour="14:00">20</element>
+     <element Hour="15:00">0</element>
+     <element Hour="16:00">20</element>
+     <element Hour="17:00">0</element>
+     <element Hour="18:00">0</element>
+     <element Hour="19:00">0</element>
+     <element Hour="20:00">0</element>
+     <element Hour="21:00">40</element>
+     <element Hour="22:00">70</element>
+     <element Hour="23:00">50</element>
+  </Profile>
+<Profile Name="norte_invierno" domingo="True" jueves="True" lunes="True" martes="True" miercoles="True" sabado="True" viernes="True"><element Hour="19:00">0</element><element Hour="12:00">100</element><element Hour="06:00">0</element><element Hour="00:00">0</element><element Hour="23:00">0</element><element Hour="05:00">0</element><element Hour="11:00">100</element><element Hour="14:00">100</element><element Hour="22:00">0</element><element Hour="21:00">0</element><element Hour="09:00">40</element><element Hour="03:00">0</element><element Hour="18:00">40</element><element Hour="01:00">0</element><element Hour="15:00">70</element><element Hour="13:00">100</element><element Hour="04:00">0</element><element Hour="08:00">20</element><element Hour="16:00">70</element><element Hour="02:00">0</element><element Hour="20:00">0</element><element Hour="07:00">0</element><element Hour="17:00">40</element><element Hour="10:00">60</element></Profile><Profile Name="ivan_2" domingo="True" jueves="False" lunes="False" martes="False" miercoles="False" sabado="True" viernes="False"><element Hour="19:00">0</element><element Hour="12:00">60</element><element Hour="06:00">40</element><element Hour="00:00">0</element><element Hour="23:00">100</element><element Hour="05:00">20</element><element Hour="11:00">80</element><element Hour="14:00">20</element><element Hour="04:00">0</element><element Hour="09:00">100</element><element Hour="03:00">0</element><element Hour="18:00">0</element><element Hour="01:00">0</element><element Hour="21:00">40</element><element Hour="15:00">0</element><element Hour="22:00">70</element><element Hour="08:00">80</element><element Hour="16:00">20</element><element Hour="02:00">0</element><element Hour="13:00">50</element><element Hour="20:00">0</element><element Hour="07:00">60</element><element Hour="17:00">0</element><element Hour="10:00">100</element></Profile><Profile Name="ivan_3" domingo="True" jueves="False" lunes="False" martes="False" miercoles="False" sabado="True" viernes="False"><element Hour="19:00">0</element><element Hour="12:00">60</element><element Hour="06:00">40</element><element Hour="00:00">0</element><element Hour="23:00">50</element><element Hour="05:00">20</element><element Hour="11:00">80</element><element Hour="14:00">20</element><element Hour="04:00">0</element><element Hour="09:00">100</element><element Hour="03:00">0</element><element Hour="18:00">0</element><element Hour="01:00">0</element><element Hour="21:00">40</element><element Hour="15:00">0</element><element Hour="22:00">70</element><element Hour="08:00">80</element><element Hour="16:00">20</element><element Hour="02:00">0</element><element Hour="13:00">50</element><element Hour="20:00">0</element><element Hour="07:00">60</element><element Hour="17:00">0</element><element Hour="10:00">100</element></Profile><Profile Name="juan" domingo="True" jueves="False" lunes="True" martes="False" miercoles="False" sabado="False" viernes="True"><element Hour="19:00">0</element><element Hour="12:00">60</element><element Hour="06:00">40</element><element Hour="00:00">0</element><element Hour="23:00">50</element><element Hour="05:00">20</element><element Hour="11:00">80</element><element Hour="14:00">20</element><element Hour="04:00">0</element><element Hour="09:00">100</element><element Hour="03:00">0</element><element Hour="18:00">0</element><element Hour="01:00">0</element><element Hour="21:00">40</element><element Hour="15:00">0</element><element Hour="22:00">70</element><element Hour="08:00">80</element><element Hour="16:00">20</element><element Hour="02:00">0</element><element Hour="13:00">50</element><element Hour="20:00">0</element><element Hour="07:00">60</element><element Hour="17:00">0</element><element Hour="10:00">100</element></Profile></data>
